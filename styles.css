@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+
+.contact-top {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+
+.subtitle {
+  color: black;
+  text-align: left;
+  font-size: 14px;
+}
+
+.body-text {
+  color: black;
+  font-size: 18px;
+  line-height: 1.2em;
+  padding-left: 2.5em;
+}
+
+body {
+  font-family: "Source Code Pro", monospace;
+  background-color: ivory;
+  margin: 10px auto;
+  max-width: 700px;
+  padding: 10px;
+}
+
+a:link,
+a:visited {
+  color: #8EC1C2;
+}
+
+hr {
+  width: 25%;
+  text-align: left;
+  margin-left: 0;
+}
